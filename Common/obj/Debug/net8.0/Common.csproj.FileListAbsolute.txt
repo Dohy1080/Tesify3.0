@@ -1,0 +1,11 @@
+C:\cmc\be\StudentTeacherManagementBE\Common\bin\Debug\net8.0\Common.deps.json
+C:\cmc\be\StudentTeacherManagementBE\Common\bin\Debug\net8.0\Common.dll
+C:\cmc\be\StudentTeacherManagementBE\Common\bin\Debug\net8.0\Common.pdb
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\Common.dll
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\refint\Common.dll
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\Common.pdb
+C:\cmc\be\StudentTeacherManagementBE\Common\obj\Debug\net8.0\ref\Common.dll
