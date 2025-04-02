@@ -1,0 +1,12 @@
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\CoreEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\CoreEntities.AssemblyInfoInputs.cache
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\CoreEntities.AssemblyInfo.cs
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\CoreEntities.csproj.CoreCompileInputs.cache
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\bin\Debug\net8.0\CoreEntities.deps.json
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\bin\Debug\net8.0\CoreEntities.dll
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\bin\Debug\net8.0\CoreEntities.pdb
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\CoreEntities.dll
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\refint\CoreEntities.dll
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\CoreEntities.pdb
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\ref\CoreEntities.dll
+C:\cmc\be\StudentTeacherManagementBE\CoreEntities\obj\Debug\net8.0\CoreEntities.csproj.AssemblyReference.cache
