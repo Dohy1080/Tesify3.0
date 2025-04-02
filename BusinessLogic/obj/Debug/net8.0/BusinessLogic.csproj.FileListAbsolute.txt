@@ -1,0 +1,17 @@
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\bin\Debug\net8.0\CoreEntities.dll
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\bin\Debug\net8.0\CoreEntities.pdb
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\bin\Debug\net8.0\BusinessLogic.runtimeconfig.json
+C:\cmc\be\StudentTeacherManagementBE\BusinessLogic\obj\Debug\net8.0\BusinessLogic.genruntimeconfig.cache
